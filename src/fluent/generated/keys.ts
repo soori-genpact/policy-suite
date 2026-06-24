@@ -12821,7 +12821,7 @@ declare global {
                     {
                         table: 'sn_glider_source_artifact_m2m'
                         id: '3c513e94fafb495a84c9e0171b085546'
-                        deleted: true
+                        deleted: false
                         key: {
                             application_file: 'f034cd3b609e4662b31688c7071cf835'
                             source_artifact: '84a31431a5bf481ea1898fc0e1550bf1'
@@ -23343,7 +23343,7 @@ declare global {
                     {
                         table: 'sys_ux_lib_asset'
                         id: '8665190bab0d479f91b44239a454b788'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'x_gegis_ins_policy/vendor-react-dom--003b9c7e'
                         }
@@ -28001,7 +28001,7 @@ declare global {
                     {
                         table: 'sys_element_mapping'
                         id: 'ab1d94b2fbe98b58b70efc647befdc45'
-                        deleted: false
+                        deleted: true
                         key: {
                             field: 'experience_status_record'
                             id: '45c5037568a5483aa51faf7ed0171f45'
@@ -35242,7 +35242,7 @@ declare global {
                     {
                         table: 'sys_element_mapping'
                         id: 'e5ea000153a5c7107d5fd301a0490eb5'
-                        deleted: true
+                        deleted: false
                         key: {
                             field: 'experience_status_record'
                             table: 'var__m_sys_pd_activity_type_prop_c1ea000153a5c7107d5fd301a0490eac'
@@ -36451,7 +36451,7 @@ declare global {
                     {
                         table: 'sys_ux_lib_asset'
                         id: 'f034cd3b609e4662b31688c7071cf835'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'x_gegis_ins_policy/vendor-react-dom--003b9c7e.js.map'
                         }
@@ -38243,7 +38243,7 @@ declare global {
                     {
                         table: 'sn_glider_source_artifact_m2m'
                         id: 'fd84f5be5c4c4119a658b171ed29fe1d'
-                        deleted: true
+                        deleted: false
                         key: {
                             application_file: '8665190bab0d479f91b44239a454b788'
                             source_artifact: '84a31431a5bf481ea1898fc0e1550bf1'
