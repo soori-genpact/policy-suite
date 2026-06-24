@@ -13,8 +13,8 @@ Record({
         activity_type: 'c8440448234e88f1252d6a488d306232',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Initiate Exposure Management',
         name: 'x_gegis_ins_policy_initiate_exposure_management',
         public_access: 'false',
@@ -23,6 +23,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Initiate Exposure Management Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -56,8 +58,8 @@ Record({
         activity_type: 'a9b7d4312bac6b2321a0bf850fe5a641',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Geo Mapping',
         name: 'x_gegis_ins_policy_geo_mapping',
         public_access: 'false',
@@ -66,6 +68,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Geo Mapping  Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -99,8 +103,8 @@ Record({
         activity_type: 'f4bdb10fe1b55493857223a061c88032',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Catastrophe Modelling',
         name: 'x_gegis_ins_policy_catastrophe_modelling',
         public_access: 'false',
@@ -109,6 +113,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Catastrophe Modelling Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -142,8 +148,8 @@ Record({
         activity_type: '70c7c0603965c1cbcdb2a144a8ad79f3',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Capacity Management',
         name: 'x_gegis_ins_policy_capacity_management',
         public_access: 'false',
@@ -152,6 +158,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Capacity Management Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -185,8 +193,8 @@ Record({
         activity_type: 'cc6ca77193394ef9d996d171065e0b8b',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Concentration Analysis',
         name: 'x_gegis_ins_policy_concentration_analysis',
         public_access: 'false',
@@ -195,6 +203,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Concentration Analysis Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -228,8 +238,8 @@ Record({
         activity_type: '798f64cd787f68aca909fa1e10f74aac',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Portfolio Optimization',
         name: 'x_gegis_ins_policy_portfolio_optimization',
         public_access: 'false',
@@ -238,6 +248,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Portfolio Optimization Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({
@@ -271,8 +283,8 @@ Record({
         activity_type: '56aed84476347689d139156ec8266212',
         category: '708801831b0c1010affd0e55cc4bcb81',
         experience_display_preferences:
-            'associated_table=all;associated_record=all;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=standard;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
-        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
+            'associated_table=standard;associated_record=standard;experience_status_table=advanced;experience_status_record=advanced;tagline=all;icon=advanced;title=standard;description=all;pending_title=advanced;pending_description=advanced;record_fields=all;footer=standard;form_view=all;form_fields=all;attachment_source=all;attachments_read_only=standard;show_sla=standard;show_checklist=standard;is_automated=advanced;',
+        input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;wait=all;',
         label: 'Exposure Management Summary',
         name: 'x_gegis_ins_policy_exposure_management_summary',
         public_access: 'false',
@@ -281,6 +293,8 @@ Record({
         system_level: 'false',
         table: 'global',
         wait_for_completion: 'true',
+        description: 'Exposure Management Summary Acitvity Definition',
+        enable_ai_agent: 'off',
     },
 })
 Record({

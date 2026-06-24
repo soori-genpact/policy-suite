@@ -85,3 +85,20 @@ Record({
         source: '6b97ac759359075044f7bd4f7bba1063',
     },
 })
+Record({
+    $id: Now.ID['d2217e6f83e583106a009529feaad342'],
+    table: 'sys_pd_snapshot',
+    data: {
+        access: 'public',
+        derivatives:
+            '{"table":"sys_pd_snapshot","id":"d2217e6f83e583106a009529feaad342","name":"derivatives","type":"com.snc.pd.model.serialization.DerivativeFetcher"}',
+        name: 'clearance_case_playbook',
+        process_definition:
+            '{"table":"sys_pd_snapshot","id":"d2217e6f83e583106a009529feaad342","name":"process_definition","type":"com.snc.pd.model.ProcessDefinition"}',
+        process_dependencies:
+            '{"table":"sys_pd_snapshot","id":"d2217e6f83e583106a009529feaad342","name":"process_dependencies","type":"com.snc.pd.model.dependency.InstructionBasedProcessDependenciesCollection"}',
+        process_plan:
+            '{"table":"sys_pd_snapshot","id":"d2217e6f83e583106a009529feaad342","name":"process_plan","type":"com.snc.process_flow.engine.ProcessPlan"}',
+        source: '6b97ac759359075044f7bd4f7bba1063',
+    },
+})

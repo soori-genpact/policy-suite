@@ -1,7 +1,7 @@
 import { Record } from '@servicenow/sdk/core'
 
 Record({
-    $id: Now.ID['2397ac759359075044f7bd4f7bba108b'],
+    $id: Now.ID['799daee383e583106a009529feaad3c9'],
     table: 'sys_pd_process_input',
     data: {
         active: 'true',
@@ -25,9 +25,9 @@ Record({
         label: 'Parent record',
         mandatory: 'false',
         max_length: '32',
-        model: '6b97ac759359075044f7bd4f7bba1063',
-        model_id: '6b97ac759359075044f7bd4f7bba1063',
-        name: 'var__m_sys_pd_process_input_6b97ac759359075044f7bd4f7bba1063',
+        model: '90141cd762f9081eab170afb4d626e38',
+        model_id: '90141cd762f9081eab170afb4d626e38',
+        name: 'var__m_sys_pd_process_input_90141cd762f9081eab170afb4d626e38',
         order: '1',
         primary: 'false',
         read_only: 'false',
