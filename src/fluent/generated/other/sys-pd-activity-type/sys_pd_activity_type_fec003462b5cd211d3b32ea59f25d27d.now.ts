@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '2f59123e24a732143c0fefe36ee1421a',
         icon: 'news_outline',
         name: 'Quote Selection UI Layout',
     },

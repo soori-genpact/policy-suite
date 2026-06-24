@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '717b5ec7ddf285c7b2c2814598bf52bc',
         icon: 'news_outline',
         name: 'Activation UI Layout',
     },

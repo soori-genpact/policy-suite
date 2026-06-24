@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '8568fb5595c0c5b61042daca86a44d40',
         icon: 'news_outline',
         name: 'Concentration Analysis UI Layout',
     },
