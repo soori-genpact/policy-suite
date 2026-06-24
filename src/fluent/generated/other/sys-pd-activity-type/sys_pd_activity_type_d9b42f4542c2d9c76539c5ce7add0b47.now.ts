@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '9ec86655bdd6372b3a35abc85a887be3',
         icon: 'news_outline',
         name: 'Rating and Pricing UI Layout',
     },

@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '3ae2a4c102ef891d8c360591c058c6be',
         icon: 'news_outline',
         name: 'Product Selection Details UI Layout',
     },

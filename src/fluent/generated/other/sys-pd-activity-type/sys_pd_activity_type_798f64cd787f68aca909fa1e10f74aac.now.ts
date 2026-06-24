@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '939dbdbd80a0b544a1d3ca99e7285d33',
         icon: 'news_outline',
         name: 'Portfolio Optimization UI Layout',
     },
