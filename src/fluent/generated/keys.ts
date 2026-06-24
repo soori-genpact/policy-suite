@@ -645,6 +645,7 @@ declare global {
                     '4a6ff31553a5c7107d5fd301a0490e61': {
                         table: 'sys_pd_activity_definition'
                         id: '4a6ff31553a5c7107d5fd301a0490e61'
+                        deleted: true
                     }
                     '4bc2822d339d4bd07ef8f499ed5c7b73': {
                         table: 'sys_ux_list'
@@ -9707,6 +9708,16 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_choice'
+                        id: '26e9e52783e943106a009529feaad372'
+                        deleted: false
+                        key: {
+                            name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
+                            element: 'wait'
+                            value: 'yes'
+                        }
+                    },
+                    {
                         table: 'sys_choice_set'
                         id: '26ebad22a7434f298f2ca4a9c173b8f1'
                         key: {
@@ -18510,6 +18521,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_hub_flow_input'
+                        id: '62e9e52783e943106a009529feaad359'
+                        deleted: false
+                        key: {
+                            model: '2ae9e52783e943106a009529feaad354'
+                            element: 'wait'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '62f2560059034b1eaee2e254b0ef9df5'
                         key: {
@@ -19104,6 +19124,16 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_choice'
+                        id: '66e9e52783e943106a009529feaad36f'
+                        deleted: false
+                        key: {
+                            name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
+                            element: 'wait'
+                            value: 'no'
+                        }
+                    },
+                    {
                         table: 'sys_variable_value'
                         id: '66f34587fbadcf58b70efc647befdcc1'
                         key: {
@@ -19565,6 +19595,15 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_location'
                             element: 'construction_type'
+                        }
+                    },
+                    {
+                        table: 'sys_hub_flow_output'
+                        id: '6ae9e52783e943106a009529feaad382'
+                        deleted: false
+                        key: {
+                            model: '2ae9e52783e943106a009529feaad354'
+                            element: 'automated'
                         }
                     },
                     {
@@ -27449,6 +27488,16 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_quote_option'
                             element: 'deductible'
+                            language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: 'a6e9e52783e943106a009529feaad395'
+                        deleted: false
+                        key: {
+                            name: 'var__m_sys_hub_flow_output_2ae9e52783e943106a009529feaad354'
+                            element: 'record'
                             language: 'en'
                         }
                     },
@@ -35434,6 +35483,16 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: 'e6e9e52783e943106a009529feaad38a'
+                        deleted: false
+                        key: {
+                            name: 'var__m_sys_hub_flow_output_2ae9e52783e943106a009529feaad354'
+                            element: 'automated'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_ui_element'
                         id: 'e71df59fa0b04436a875b44730c62ea8'
                         key: {
@@ -35898,6 +35957,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_hub_flow_output'
+                        id: 'eae9e52783e943106a009529feaad38e'
+                        deleted: false
+                        key: {
+                            model: '2ae9e52783e943106a009529feaad354'
+                            element: 'record'
+                        }
+                    },
+                    {
                         table: 'sys_index'
                         id: 'eb00368ec31c4dfeb0d23ab3746f44c5'
                         key: {
@@ -36277,6 +36345,16 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_auto_exposure'
                             element: 'collision_deductible'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: 'eee9e52783e943106a009529feaad37a'
+                        deleted: false
+                        key: {
+                            name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
+                            element: 'wait'
+                            language: 'en'
                         }
                     },
                     {
