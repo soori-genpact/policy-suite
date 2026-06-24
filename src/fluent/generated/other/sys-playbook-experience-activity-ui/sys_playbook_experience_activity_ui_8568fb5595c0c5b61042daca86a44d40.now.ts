@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: 'cc6ca77193394ef9d996d171065e0b8b',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '44a4f7288f3081770e029ce9cae71a2f',
         name: 'Concentration Analysis Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: '90f125bfcae75c0415e004535441d088',

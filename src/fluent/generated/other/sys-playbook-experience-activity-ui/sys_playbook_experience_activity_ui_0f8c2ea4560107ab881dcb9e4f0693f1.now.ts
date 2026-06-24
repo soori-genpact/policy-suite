@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: 'f4bdb10fe1b55493857223a061c88032',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '4f8a27d7a309e03c0622c8071d4bfa2a',
         name: 'Catastrophe Modelling Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: '85c3d1082f6cc5d3e76e110de14457f9',

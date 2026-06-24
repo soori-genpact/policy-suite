@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: 'c1ea000153a5c7107d5fd301a0490eac',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '47dbbf3c87bbb503081e03421fd71e09',
         name: 'Initiate Submission Request Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: 'c1ea000153a5c7107d5fd301a0490ead',

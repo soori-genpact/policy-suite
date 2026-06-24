@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: 'c8440448234e88f1252d6a488d306232',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '813e0fc3056cd45f72594ba070138584',
         name: 'Initiate Exposure Management Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: '7b8b4ac928b18957e539152047d79fb2',

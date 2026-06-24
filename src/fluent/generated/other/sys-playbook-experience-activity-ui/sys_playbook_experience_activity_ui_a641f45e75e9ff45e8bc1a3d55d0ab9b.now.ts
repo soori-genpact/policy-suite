@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: '777635957093577a89e9c312694d1513',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '9553849b365ca7db62066769ce684a24',
         name: 'Quote Workspace Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: 'a8e25b97856eccff4637bf21fb86e172',

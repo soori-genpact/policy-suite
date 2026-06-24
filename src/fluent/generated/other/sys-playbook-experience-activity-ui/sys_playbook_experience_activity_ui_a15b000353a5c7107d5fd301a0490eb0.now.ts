@@ -5,7 +5,7 @@ Record({
     table: 'sys_playbook_experience_activity_ui',
     data: {
         experience_type: 'a15b000353a5c7107d5fd301a0490eac',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '48186f42e12c0248c6106f3178ea792b',
         name: 'Underwriting Guidelines Activity UI',
         playbook_experience: '98e09a560f2200102920c912d4767e1a',
         screen: 'a15b000353a5c7107d5fd301a0490ead',
