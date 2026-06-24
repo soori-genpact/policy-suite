@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: 'bd35e7b2fba18f58b70efc647befdcfe',
         icon: 'news_outline',
         name: 'Risk Summary UI Layout',
     },
