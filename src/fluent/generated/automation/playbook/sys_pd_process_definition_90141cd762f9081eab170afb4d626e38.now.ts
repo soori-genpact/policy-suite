@@ -16,7 +16,7 @@ Record({
         permission:
             '{"VIEW":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"LANE_ADD_OPTIONAL_ACTIVITY":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"CANCEL":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"RESTART":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"LANE_RESTART":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"ACTIVITY_RESTART":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}],"LAUNCH":[{"source":"USER_ROLE","id":"b0593b350a0a0aa7001d689e4542dc28"}]}',
         process_type: '52c6d3eeff1be2102c2fffffffffff44',
-        public_access: 'true',
+        public_access: 'false',
         restartable: 'RESTARTABLE_TRUE',
         run_on_pad_engine: 'false',
         run_strategy: 'run_once',
@@ -25,7 +25,7 @@ Record({
         start_non_blocking: 'true',
         status: 'published',
         view_type: 'DIAGRAM',
-        snapshot: 'c0713eaf83e583106a009529feaad304',
+        snapshot: '7278cfaf83e983106a009529feaad3f8',
         sync_state: 'COMPLETE',
     },
 })

@@ -11,3 +11,14 @@ Record({
         variable: 'a8256f8fe4d15d1bac3b20b9078770ef',
     },
 })
+Record({
+    $id: Now.ID['ef128faf83a983106a009529feaad36d'],
+    table: 'sys_variable_value',
+    data: {
+        document: 'sys_pd_activity_definition',
+        document_key: '9eb704f668f08d5c24dcaed532ad8866',
+        order: 100,
+        value: '0',
+        variable: '17c66ac34706d6eebadd6b05f1203794',
+    },
+})

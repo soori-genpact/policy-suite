@@ -56,6 +56,10 @@ declare global {
                         table: 'sys_pd_snapshot_input'
                         id: '04384d4bfbedcf58b70efc647befdc2c'
                     }
+                    '04713eaf83e583106a009529feaad307': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '04713eaf83e583106a009529feaad307'
+                    }
                     '04c011b2fb69cb58b70efc647befdc80': {
                         table: 'sys_uib_screen_test_values'
                         id: '04c011b2fb69cb58b70efc647befdc80'
@@ -87,6 +91,18 @@ declare global {
                     '08682cf59359075044f7bd4f7bba1045': {
                         table: 'sys_flow_compiled_flow_chunk'
                         id: '08682cf59359075044f7bd4f7bba1045'
+                    }
+                    '08713eaf83e583106a009529feaad306': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '08713eaf83e583106a009529feaad306'
+                    }
+                    '08713eaf83e583106a009529feaad309': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '08713eaf83e583106a009529feaad309'
+                    }
+                    '08713eaf83e583106a009529feaad30b': {
+                        table: 'sys_pd_snapshot_input'
+                        id: '08713eaf83e583106a009529feaad30b'
                     }
                     '08e6dcbefb298b58b70efc647befdcfe': {
                         table: 'sys_pd_snapshot_input'
@@ -159,6 +175,14 @@ declare global {
                     '1184dda7965d60a0c39b5a52fa2ad1da': {
                         table: 'sys_pd_lane'
                         id: '1184dda7965d60a0c39b5a52fa2ad1da'
+                    }
+                    '12217e6f83e583106a009529feaad350': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '12217e6f83e583106a009529feaad350'
+                    }
+                    '12217e6f83e583106a009529feaad354': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '12217e6f83e583106a009529feaad354'
                     }
                     '1226e9941008eba0fd06d5ab7d71a113': {
                         table: 'sys_pd_activity'
@@ -633,6 +657,14 @@ declare global {
                         table: 'sys_flow_compiled_flow_chunk'
                         id: '40682cf59359075044f7bd4f7bba1046'
                     }
+                    '40713eaf83e583106a009529feaad306': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '40713eaf83e583106a009529feaad306'
+                    }
+                    '40713eaf83e583106a009529feaad30a': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '40713eaf83e583106a009529feaad30a'
+                    }
                     '4101c46d53a5c7107d5fd301a0490e53': {
                         table: 'sys_ux_screen'
                         id: '4101c46d53a5c7107d5fd301a0490e53'
@@ -849,6 +881,14 @@ declare global {
                         id: '5996c562272642e50dc169213355bd4d'
                         deleted: true
                     }
+                    '5a217e6f83e583106a009529feaad34f': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '5a217e6f83e583106a009529feaad34f'
+                    }
+                    '5a217e6f83e583106a009529feaad354': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '5a217e6f83e583106a009529feaad354'
+                    }
                     '5a7a5cf6fba98b58b70efc647befdcee': {
                         table: 'sys_pd_snapshot_chunk'
                         id: '5a7a5cf6fba98b58b70efc647befdcee'
@@ -880,6 +920,10 @@ declare global {
                     '5de6ca95ebfabb671d0cd876d852c231': {
                         table: 'sys_pd_activity_type_prop'
                         id: '5de6ca95ebfabb671d0cd876d852c231'
+                    }
+                    '5e217e6fd3e583108b9ebadd972f2351': {
+                        table: 'sys_flow_compiled_flow'
+                        id: '5e217e6fd3e583108b9ebadd972f2351'
                     }
                     '5e2a9adcd31bf81b0dc997a330745538': {
                         table: 'sys_playbook_experience_action_assignment_map'
@@ -948,6 +992,7 @@ declare global {
                     '6297c17efba5cb58b70efc647befdce1': {
                         table: 'sys_ux_macroponent'
                         id: '6297c17efba5cb58b70efc647befdce1'
+                        deleted: true
                     }
                     '637ccfb3c5f5027c35ce7476fb834ef8': {
                         table: 'sys_pd_activity_type_prop'
@@ -1183,6 +1228,7 @@ declare global {
                     '76dfc5befb29cb58b70efc647befdc35': {
                         table: 'sys_ux_client_script'
                         id: '76dfc5befb29cb58b70efc647befdc35'
+                        deleted: true
                     }
                     '76f55372fbad4f58b70efc647befdca4': {
                         table: 'sys_scope_privilege'
@@ -1261,6 +1307,7 @@ declare global {
                     '7bb0d972fb69cb58b70efc647befdc87': {
                         table: 'sys_ux_macroponent'
                         id: '7bb0d972fb69cb58b70efc647befdc87'
+                        deleted: true
                     }
                     '7c8f29dd5774bb20251432e95e14448c': {
                         table: 'sys_pd_activity_type_prop'
@@ -1393,6 +1440,14 @@ declare global {
                         table: 'sys_pd_activity'
                         id: '881e7ef37283ab58f44f096c52c4aaad'
                     }
+                    '88713eaf83e583106a009529feaad305': {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: '88713eaf83e583106a009529feaad305'
+                    }
+                    '88713eaf83e583106a009529feaad30a': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '88713eaf83e583106a009529feaad30a'
+                    }
                     '88d35e2133558bd07ef8f499ed5c7bf1': {
                         table: 'sys_ux_app_route'
                         id: '88d35e2133558bd07ef8f499ed5c7bf1'
@@ -1431,6 +1486,10 @@ declare global {
                     '8c5f8b96459e4f1d8cbd57fe4d194779': {
                         table: 'sys_playbook_experience_activity_ui'
                         id: '8c5f8b96459e4f1d8cbd57fe4d194779'
+                    }
+                    '8c713eaf19e58310bbee23282f197607': {
+                        table: 'sys_flow_compiled_flow'
+                        id: '8c713eaf19e58310bbee23282f197607'
                     }
                     '8c849183fbe10398b70efc647befdce5': {
                         table: 'sys_ui_message'
@@ -1589,6 +1648,10 @@ declare global {
                     '9beb822153690b107d5fd301a0490edf': {
                         table: 'sys_ui_message'
                         id: '9beb822153690b107d5fd301a0490edf'
+                    }
+                    '9e217e6f83e583106a009529feaad352': {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: '9e217e6f83e583106a009529feaad352'
                     }
                     '9e8ecb7bf59c02bd04fd009470cba88e': {
                         table: 'sys_playbook_experience_action_assignment_map'
@@ -2583,6 +2646,7 @@ declare global {
                     badf85befb29cb58b70efc647befdcad: {
                         table: 'sys_ux_macroponent'
                         id: 'badf85befb29cb58b70efc647befdcad'
+                        deleted: true
                     }
                     bb213a1ac3634d410db24c1edcb5b014: {
                         table: 'sys_pd_activity_type_prop'
@@ -2657,6 +2721,10 @@ declare global {
                     br_orchestrate_sub_cases: {
                         table: 'sys_script'
                         id: 'f90a4c61a34d404a90b7bb3fcce6a451'
+                    }
+                    c0713eaf83e583106a009529feaad304: {
+                        table: 'sys_pd_snapshot'
+                        id: 'c0713eaf83e583106a009529feaad304'
                     }
                     c07a1f1eb94cea76ac46c79e2fc7c0e2: {
                         table: 'sys_pd_process_definition'
@@ -3150,6 +3218,10 @@ declare global {
                         table: 'sys_pd_activity_type'
                         id: 'cc6ca77193394ef9d996d171065e0b8b'
                     }
+                    cc713eaf83e583106a009529feaad308: {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: 'cc713eaf83e583106a009529feaad308'
+                    }
                     ce715576fb69cb58b70efc647befdc3a: {
                         table: 'sys_ux_screen'
                         id: 'ce715576fb69cb58b70efc647befdc3a'
@@ -3207,6 +3279,14 @@ declare global {
                     d20459cffba10398b70efc647befdc63: {
                         table: 'sys_ui_message'
                         id: 'd20459cffba10398b70efc647befdc63'
+                    }
+                    d2217e6f83e583106a009529feaad342: {
+                        table: 'sys_pd_snapshot'
+                        id: 'd2217e6f83e583106a009529feaad342'
+                    }
+                    d2217e6f83e583106a009529feaad351: {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: 'd2217e6f83e583106a009529feaad351'
                     }
                     d2f45d3d8b36847044544f2dd9e675aa: {
                         table: 'sys_pd_activity'
@@ -3637,6 +3717,18 @@ declare global {
                         table: 'sys_ui_message'
                         id: 'd5fe3b1153a5c7107d5fd301a0490e93'
                     }
+                    d6217e6f83e583106a009529feaad350: {
+                        table: 'sys_pd_snapshot_chunk'
+                        id: 'd6217e6f83e583106a009529feaad350'
+                    }
+                    d6217e6f83e583106a009529feaad353: {
+                        table: 'sys_flow_compiled_flow_chunk'
+                        id: 'd6217e6f83e583106a009529feaad353'
+                    }
+                    d6217e6f83e583106a009529feaad355: {
+                        table: 'sys_pd_snapshot_input'
+                        id: 'd6217e6f83e583106a009529feaad355'
+                    }
                     d63256ba24f1962506754c2a0688cf55: {
                         table: 'sys_pd_activity_type_prop'
                         id: 'd63256ba24f1962506754c2a0688cf55'
@@ -3967,6 +4059,7 @@ declare global {
                     f4f7c9befba5cb58b70efc647befdc76: {
                         table: 'sys_uib_screen_test_values'
                         id: 'f4f7c9befba5cb58b70efc647befdc76'
+                        deleted: true
                     }
                     f4fffb4a75011d6b59cb6bbe8249955c: {
                         table: 'sys_playbook_experience_action_assignment_map'
@@ -4060,6 +4153,7 @@ declare global {
                     fbb011b2fb69cb58b70efc647befdc60: {
                         table: 'sys_ux_client_script'
                         id: 'fbb011b2fb69cb58b70efc647befdc60'
+                        deleted: true
                     }
                     fc71d176fb69cb58b70efc647befdc0a: {
                         table: 'sys_ux_macroponent'
@@ -7098,6 +7192,23 @@ declare global {
                     },
                     {
                         table: 'sys_ui_element'
+                        id: '126dbe2f836983106a009529feaad309'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_record'
+                            position: '2'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
                         id: '12745d43fbe10398b70efc647befdc44'
                         key: {
                             sys_ui_section: {
@@ -8073,6 +8184,21 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_section'
+                        id: '1a6d7e2f836983106a009529feaad316'
+                        key: {
+                            name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '1a6f14002d3341a3b607b4ea60930e08'
                         key: {
@@ -8706,6 +8832,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '1e6dbe2f836983106a009529feaad30a'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'is_automated'
+                            position: '4'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: '1e7e834fcef04e069751bca04d1ad8b1'
                         key: {
@@ -8759,6 +8902,15 @@ declare global {
                             }
                             element: 'coverage_category'
                             position: '3'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: '1ea383e383e983106a009529feaad37e'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_5aa383e383e983106a009529feaad352'
+                            element: 'parent_record'
+                            language: 'en'
                         }
                     },
                     {
@@ -9651,6 +9803,21 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_section'
+                        id: '246dba2f836983106a009529feaad367'
+                        key: {
+                            name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '249ae8ff595f4634ab74380c3d52487c'
                         key: {
@@ -9956,7 +10123,7 @@ declare global {
                     {
                         table: 'sys_choice'
                         id: '26e9e52783e943106a009529feaad372'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
                             element: 'wait'
@@ -12506,6 +12673,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: '377843ef83e983106a009529feaad38c'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_3f78c3af83e983106a009529feaad380'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: '37810cef65414c719f17bde89f2d4080'
                         deleted: true
@@ -13838,6 +14014,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '415d7a2f836983106a009529feaad3f5'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'is_automated'
+                            position: '0'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '4181ce442845495c85987d369d3befc0'
                         key: {
@@ -14581,6 +14774,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '455d7a2f836983106a009529feaad3fa'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_table'
+                            position: '5'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: '45627f09ab26409d8835581b2c193081'
                         deleted: true
@@ -15059,6 +15269,23 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_risk_factor'
                             element: 'weight'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '495d7a2f836983106a009529feaad3f8'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'description'
+                            position: '3'
                         }
                     },
                     {
@@ -15566,6 +15793,38 @@ declare global {
                         key: {
                             logical_table_name: 'x_gegis_ins_policy_clearance_check'
                             col_name_string: 'reviewed_by'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_section'
+                        id: '4d5d3a2f836983106a009529feaad386'
+                        key: {
+                            name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                            caption: 'NULL'
+                            view: {
+                                id: 'Default view'
+                                key: {
+                                    name: 'NULL'
+                                }
+                            }
+                            sys_domain: 'global'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '4d5d7a2f836983106a009529feaad3f6'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_record'
+                            position: '1'
                         }
                     },
                     {
@@ -18830,7 +19089,7 @@ declare global {
                     {
                         table: 'sys_hub_flow_input'
                         id: '62e9e52783e943106a009529feaad359'
-                        deleted: true
+                        deleted: false
                         key: {
                             model: '2ae9e52783e943106a009529feaad354'
                             element: 'wait'
@@ -19165,6 +19424,23 @@ declare global {
                     },
                     {
                         table: 'sys_ui_element'
+                        id: '646dba2f836983106a009529feaad36e'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_table'
+                            position: '3'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
                         id: '64751acae9364b488210c83ec1db13eb'
                         key: {
                             sys_ui_section: {
@@ -19441,7 +19717,7 @@ declare global {
                     {
                         table: 'sys_choice'
                         id: '66e9e52783e943106a009529feaad36f'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
                             element: 'wait'
@@ -19584,6 +19860,23 @@ declare global {
                         key: {
                             document_key: 'ee86a9a6d9f162135e4a6777b1c00586'
                             variable: 'd35b000253a5c7107d5fd301a0490ea3'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '686dba2f836983106a009529feaad36c'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_record'
+                            position: '1'
                         }
                     },
                     {
@@ -19924,7 +20217,7 @@ declare global {
                     {
                         table: 'sys_hub_flow_output'
                         id: '6ae9e52783e943106a009529feaad382'
-                        deleted: true
+                        deleted: false
                         key: {
                             model: '2ae9e52783e943106a009529feaad354'
                             element: 'automated'
@@ -20685,6 +20978,15 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_policy_coverage_term'
                             element: 'selected_label'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: '6f7843ef83e983106a009529feaad346'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_6f7843ef83e983106a009529feaad335'
+                            element: 'parent_record'
+                            language: 'en'
                         }
                     },
                     {
@@ -22354,6 +22656,15 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_auto_exposure'
                             element: 'no_faults'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
+                        id: '7a7803ef83e983106a009529feaad31c'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_7278cfaf83e983106a009529feaad3f8'
+                            element: 'parent_record'
+                            language: 'en'
                         }
                     },
                     {
@@ -25298,6 +25609,23 @@ declare global {
                     },
                     {
                         table: 'sys_ui_element'
+                        id: '926dbe2f836983106a009529feaad308'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_table'
+                            position: '1'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
                         id: '92745d43fbe10398b70efc647befdc53'
                         key: {
                             sys_ui_section: {
@@ -26248,6 +26576,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: '9a6dbe2f836983106a009529feaad30b'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_table'
+                            position: '5'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: '9a730def51cb447ab58e07b37c5b09b9'
                         key: {
@@ -26797,6 +27142,23 @@ declare global {
                         key: {
                             name: 'x_gegis_ins_policy_exposure_case'
                             element: 'number'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: '9e6dbe2f836983106a009529feaad309'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_record'
+                            position: '3'
                         }
                     },
                     {
@@ -27477,6 +27839,15 @@ declare global {
                     },
                     {
                         table: 'sys_documentation'
+                        id: 'a34887af83e983106a009529feaad3de'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_df4887af83e983106a009529feaad3b1'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
                         id: 'a34a155a12584bdca2574560af13e216'
                         key: {
                             name: 'x_gegis_ins_policy_extraction_field'
@@ -27916,7 +28287,7 @@ declare global {
                     {
                         table: 'sys_documentation'
                         id: 'a6e9e52783e943106a009529feaad395'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'var__m_sys_hub_flow_output_2ae9e52783e943106a009529feaad354'
                             element: 'record'
@@ -28349,6 +28720,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: 'aa48c3af83e983106a009529feaad3cc'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_5a48c3af83e983106a009529feaad337'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: 'aa5a24e251ed42ceae4455dfd86bfe08'
                         deleted: true
@@ -28725,6 +29105,23 @@ declare global {
                             name: 'x_gegis_ins_policy_coverage_term'
                             element: 'term_type'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'ac6d3e2f836983106a009529feaad386'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'associated_table'
+                            position: '5'
                         }
                     },
                     {
@@ -29595,6 +29992,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: 'b41dbeeb836983106a009529feaad35f'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_fc1dbeeb836983106a009529feaad346'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_ui_section'
                         id: 'b43c810ffb210398b70efc647befdc1f'
                         key: {
@@ -30326,6 +30732,14 @@ declare global {
                             }
                             element: 'cause_of_loss_form'
                             position: '5'
+                        }
+                    },
+                    {
+                        table: 'sys_variable_value'
+                        id: 'b9788faf83e983106a009529feaad366'
+                        key: {
+                            document_key: 'fb293a0c2d048f174ff82ea99987dfe2'
+                            variable: '17c66ac34706d6eebadd6b05f1203794'
                         }
                     },
                     {
@@ -31906,6 +32320,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: 'c55d7a2f836983106a009529feaad3f9'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_table'
+                            position: '4'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: 'c5649c4632704bc8b3b7b8229e3c43e9'
                         key: {
@@ -32350,6 +32781,15 @@ declare global {
                     },
                     {
                         table: 'sys_documentation'
+                        id: 'c8e28b2383e983106a009529feaad382'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_48e28faf83a983106a009529feaad381'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_documentation'
                         id: 'c8e610fefb298b58b70efc647befdc88'
                         key: {
                             name: 'var__m_sys_pd_snapshot_input_88e6dcbefb298b58b70efc647befdcf5'
@@ -32400,6 +32840,23 @@ declare global {
                                     name: 'x_gegis_ins_policy.policyholder'
                                 }
                             }
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'c95d7a2f836983106a009529feaad3f7'
+                        key: {
+                            sys_ui_section: {
+                                id: '4d5d3a2f836983106a009529feaad386'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_c8440448234e88f1252d6a488d306232'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_record'
+                            position: '2'
                         }
                     },
                     {
@@ -34600,6 +35057,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: 'dca3cfa383e983106a009529feaad3b1'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_48a3cfa383e983106a009529feaad378'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_element_mapping'
                         id: 'dcad8d83fb610398b70efc647befdc3a'
                         key: {
@@ -34822,6 +35288,23 @@ declare global {
                             }
                             element: '.end_split'
                             position: '15'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'de6d7e2f836983106a009529feaad31a'
+                        key: {
+                            sys_ui_section: {
+                                id: '1a6d7e2f836983106a009529feaad316'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_f4bdb10fe1b55493857223a061c88032'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'description'
+                            position: '0'
                         }
                     },
                     {
@@ -35131,12 +35614,38 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_documentation'
+                        id: 'e051cf2f83a983106a009529feaad38d'
+                        key: {
+                            name: 'var__m_sys_pd_snapshot_input_ec518f2f83a983106a009529feaad3e4'
+                            element: 'parent_record'
+                            language: 'en'
+                        }
+                    },
+                    {
                         table: 'sys_choice'
                         id: 'e067f5258c1f42b086ce6dbbadcbaaac'
                         key: {
                             name: 'x_gegis_ins_policy_exposure_peril'
                             element: 'peril'
                             value: 'bi'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'e06dba2f836983106a009529feaad36f'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'experience_status_record'
+                            position: '4'
                         }
                     },
                     {
@@ -35624,6 +36133,23 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_ui_element'
+                        id: 'e46dba2f836983106a009529feaad36d'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'description'
+                            position: '2'
+                        }
+                    },
+                    {
                         table: 'sys_index'
                         id: 'e46f4a03c7e049af8d4636294fe41751'
                         key: {
@@ -35941,7 +36467,7 @@ declare global {
                     {
                         table: 'sys_documentation'
                         id: 'e6e9e52783e943106a009529feaad38a'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'var__m_sys_hub_flow_output_2ae9e52783e943106a009529feaad354'
                             element: 'automated'
@@ -36141,6 +36667,23 @@ declare global {
                             name: 'x_gegis_ins_policy_quote'
                             element: 'terms_conditions'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_ui_element'
+                        id: 'e86dba2f836983106a009529feaad36b'
+                        key: {
+                            sys_ui_section: {
+                                id: '246dba2f836983106a009529feaad367'
+                                key: {
+                                    name: 'var__m_sys_pd_activity_type_prop_a9b7d4312bac6b2321a0bf850fe5a641'
+                                    caption: 'NULL'
+                                    view: 'Default view'
+                                    sys_domain: 'global'
+                                }
+                            }
+                            element: 'is_automated'
+                            position: '0'
                         }
                     },
                     {
@@ -36424,7 +36967,7 @@ declare global {
                     {
                         table: 'sys_hub_flow_output'
                         id: 'eae9e52783e943106a009529feaad38e'
-                        deleted: true
+                        deleted: false
                         key: {
                             model: '2ae9e52783e943106a009529feaad354'
                             element: 'record'
@@ -36815,7 +37358,7 @@ declare global {
                     {
                         table: 'sys_documentation'
                         id: 'eee9e52783e943106a009529feaad37a'
-                        deleted: true
+                        deleted: false
                         key: {
                             name: 'var__m_sys_hub_flow_input_2ae9e52783e943106a009529feaad354'
                             element: 'wait'
@@ -36842,6 +37385,14 @@ declare global {
                             name: 'x_gegis_ins_policy_qnb_case'
                             element: 'qnb_status'
                             value: 'bound'
+                        }
+                    },
+                    {
+                        table: 'sys_variable_value'
+                        id: 'ef128faf83a983106a009529feaad36d'
+                        key: {
+                            document_key: '9eb704f668f08d5c24dcaed532ad8866'
+                            variable: '17c66ac34706d6eebadd6b05f1203794'
                         }
                     },
                     {

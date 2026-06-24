@@ -146,7 +146,7 @@ Record({
         document: 'sys_pd_activity',
         document_key: '1f7d42b83511b3102a24e14342b26217',
         order: 100,
-        value: '<p>Initiate Submission Request UI</p>',
+        value: '<p><strong>Initiate Submission Request UI</strong></p>',
         variable: 'c3ea000153a5c7107d5fd301a0490ea5',
     },
 })
