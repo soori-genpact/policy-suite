@@ -495,7 +495,8 @@ Record({
                             "binding": {
                                 "address": [
                                     "experienceProperties",
-                                    "description"
+                                    "description",
+                                    "value"
                                 ],
                                 "category": "props"
                             },
