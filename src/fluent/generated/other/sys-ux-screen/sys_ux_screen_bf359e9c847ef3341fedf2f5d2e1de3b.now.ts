@@ -4,7 +4,7 @@ Record({
     $id: Now.ID['bf359e9c847ef3341fedf2f5d2e1de3b'],
     table: 'sys_ux_screen',
     data: {
-        active: false,
+        active: true,
         app_config: '2ba981dcc31a201098c960bc0eba8f00',
         disable_auto_reflow: false,
         disable_interoperable: 'false',
