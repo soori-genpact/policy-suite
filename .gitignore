@@ -1,0 +1,13 @@
+.DS_Store
+.now/
+dist/
+node_modules/
+target/
+*.tsbuildinfo
+.jest_cache
+package-lock.json
+
+# ServiceNow Studio native source-control export — this repo is Fluent-only.
+# The app deploys via `now-sdk install`; Studio uses plain update sets, not git.
+43b656ac3bdd8b1005ad7564c3e45a73/
+sn_source_control.properties
