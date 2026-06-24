@@ -612,3 +612,33 @@ Record({
         table: 'x_gegis_ins_policy_clearance_case',
     },
 })
+Record({
+    $id: Now.ID['08a3cfa383e983106a009529feaad376'],
+    table: 'sys_trigger_runner_mapping',
+    data: {
+        active: 'true',
+        data: '{"trigger_on_unique_change":"org.mozilla.javascript.UniqueTag@1c6c3605: NOT_FOUND","parent_record":{"elementMapping":"{{triggerRecord}}","variableValue":null,"elementMappingOrVariableValue":"{{triggerRecord}}"},"run_trigger":"org.mozilla.javascript.UniqueTag@1c6c3605: NOT_FOUND"}',
+        identifier: '5be3ec638c9fea70c9dd578cf838f63b',
+        identifier_type: 'playbook',
+        runner: 'PDTriggerRunner',
+        trigger: '40a3cfa383e983106a009529feaad375',
+    },
+})
+Record({
+    $id: Now.ID['40a3cfa383e983106a009529feaad375'],
+    table: 'sys_flow_record_trigger',
+    data: {
+        active: 'true',
+        condition: '^EQ',
+        on_delete: 'false',
+        on_insert: 'true',
+        on_update: 'false',
+        run_flow_in: 'background',
+        run_on_extended: 'false',
+        run_when_setting: 'both',
+        run_when_user_setting: 'any',
+        sys_domain: 'global',
+        sys_domain_path: '/',
+        table: 'x_gegis_ins_policy_clearance_case',
+    },
+})

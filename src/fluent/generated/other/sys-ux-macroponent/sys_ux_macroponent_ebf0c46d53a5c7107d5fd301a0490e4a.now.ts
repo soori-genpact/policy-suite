@@ -492,8 +492,14 @@ Record({
                             "value": "h1"
                         },
                         "text": {
-                            "type": "JSON_LITERAL",
-                            "value": "Let's workflow it."
+                            "binding": {
+                                "address": [
+                                    "experienceProperties",
+                                    "description"
+                                ],
+                                "category": "props"
+                            },
+                            "type": "CONTEXT_BINDING"
                         }
                     },
                     "slot": "content",
@@ -821,20 +827,6 @@ Record({
         props: `[
     {
         "defaultValue": {
-            "attachment_source": {
-                "displayValue": "",
-                "elementData": {
-                    "type": "choice"
-                },
-                "value": ""
-            },
-            "attachments_read_only": {
-                "displayValue": "false",
-                "elementData": {
-                    "type": "boolean"
-                },
-                "value": "0"
-            },
             "description": {
                 "elementData": {
                     "type": "html"
@@ -855,86 +847,12 @@ Record({
                 },
                 "value": "sys_flow_data"
             },
-            "footer": {
-                "elementData": {
-                    "type": "string"
-                },
-                "label": "Footer (DEPRECATED)",
-                "value": ""
-            },
-            "form_fields": {
-                "elementData": {
-                    "type": "field_list"
-                },
-                "value": ""
-            },
-            "form_view": {
-                "elementData": {
-                    "type": "string"
-                },
-                "value": ""
-            },
-            "icon": {
-                "displayValue": "",
-                "elementData": {
-                    "reference": "st_sys_design_system_icon",
-                    "type": "reference"
-                },
-                "label": "Icon (DEPRECATED)",
-                "value": ""
-            },
             "is_automated": {
                 "displayValue": "false",
                 "elementData": {
                     "type": "boolean"
                 },
                 "value": "0"
-            },
-            "pending_description": {
-                "elementData": {
-                    "type": "html"
-                },
-                "value": ""
-            },
-            "pending_title": {
-                "elementData": {
-                    "type": "string"
-                },
-                "value": ""
-            },
-            "record_fields": {
-                "elementData": {
-                    "type": "field_list"
-                },
-                "value": ""
-            },
-            "show_checklist": {
-                "displayValue": "false",
-                "elementData": {
-                    "type": "boolean"
-                },
-                "value": "0"
-            },
-            "show_sla": {
-                "displayValue": "false",
-                "elementData": {
-                    "type": "boolean"
-                },
-                "value": "0"
-            },
-            "tagline": {
-                "elementData": {
-                    "type": "string"
-                },
-                "label": "Tagline (DEPRECATED)",
-                "value": ""
-            },
-            "title": {
-                "elementData": {
-                    "type": "string"
-                },
-                "label": "Title (DEPRECATED)",
-                "value": ""
             }
         },
         "description": "Collection of properties for the Activity UI based on the Experience Type",

@@ -1,10 +1,10 @@
-import { Subflow, wfa } from '@servicenow/sdk/automation'
+import { action, Subflow, wfa } from '@servicenow/sdk/automation'
 import { ChoiceColumn, BooleanColumn, ReferenceColumn } from '@servicenow/sdk/core'
 
 export const base_playbook_activity_flow = Subflow(
     {
         $id: Now.ID['db1084e553a5c7107d5fd301a0490e31'],
-        name: 'Base Playbook Activity Flow',
+        name: 'Playbook Manual Activity Flow',
         description: `<p>Simple instruction process activity for Playbook Workspace Experience, that optionally waits for user to complete the flow data record.</p>
 <p><b>Inputs:</b></p>
 <ul>
@@ -67,6 +67,45 @@ export const base_playbook_activity_flow = Subflow(
             {
                 record: wfa.dataPill(actionInstance_1.record, 'reference'),
                 automated: wfa.inlineScript("return fd_data.subflow_inputs.wait!='yes';"),
+            }
+        )
+        wfa.flowLogic.if(
+            {
+                label: 'Manual Activity is  NO',
+                condition: `${wfa.dataPill(_params.inputs.wait, 'choice')}=no`,
+                annotation: '',
+                $id: Now.ID['c5b60f6b83e983106a009529feaad357'],
+            },
+            () => {
+                wfa.action(
+                    action.core.updateRecord,
+                    {
+                        $id: Now.ID['bfd647ab83e983106a009529feaad3d6'],
+                        uuid: 'f8c2a0f7-3a15-417b-8701-f6828985e67d',
+                    },
+                    {
+                        record: wfa.dataPill(actionInstance_1.record, 'reference'),
+                        table_name: 'sys_flow_data',
+                        values: TemplateValue({
+                            state: 'COMPLETE',
+                        }),
+                    }
+                )
+            }
+        )
+        wfa.action(
+            action.core.waitForCondition,
+            {
+                $id: Now.ID['13178fab83e983106a009529feaad302'],
+                uuid: '24b5a74d-b71d-419d-bbc4-4a155eae197c',
+            },
+            {
+                record: wfa.dataPill(actionInstance_1.record, 'reference'),
+                table_name: 'sys_flow_data',
+                conditions: 'stateINCOMPLETE,SKIPPED,CANCELLED,ERROR',
+                timeout_flag: false,
+                timeout_duration: '',
+                timeout_schedule: '',
             }
         )
     }

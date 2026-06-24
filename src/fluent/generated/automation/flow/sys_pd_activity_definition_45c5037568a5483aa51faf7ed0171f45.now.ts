@@ -7,6 +7,7 @@ Record({
         field: 'associated_record',
         id: '45c5037568a5483aa51faf7ed0171f45',
         table: 'var__m_sys_pd_activity_type_prop_c1ea000153a5c7107d5fd301a0490eac',
+        value: '{{vl.Playbook Manual Activity Flow./end.record}}',
     },
 })
 Record({
