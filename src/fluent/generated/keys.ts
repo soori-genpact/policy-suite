@@ -5,170 +5,6 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
-                    '833c6e9782f8bd740bd8cbc24453ac94': {
-                        table: 'sys_pd_activity_definition'
-                        id: '833c6e9782f8bd740bd8cbc24453ac94'
-                    }
-                    'a5cdb9a35cb9d0a60b4dcb230d0edd63': {
-                        table: 'sys_element_mapping'
-                        id: 'a5cdb9a35cb9d0a60b4dcb230d0edd63'
-                    }
-                    '8ad39bd30128c6a3f1debd7a344c53aa': {
-                        table: 'sys_element_mapping'
-                        id: '8ad39bd30128c6a3f1debd7a344c53aa'
-                    }
-                    'e8bc4c1d4f583f3daf64a7427178379e': {
-                        table: 'sys_playbook_experience_action_assignment_map'
-                        id: 'e8bc4c1d4f583f3daf64a7427178379e'
-                    }
-                    '0c7127c08de1a97fd6262019562446ef': {
-                        table: 'sys_playbook_experience_action_assignment_map'
-                        id: '0c7127c08de1a97fd6262019562446ef'
-                    }
-                    'b5d0733b712e9aa061b56e947329aea6': {
-                        table: 'sys_playbook_experience_action_assignment_map'
-                        id: 'b5d0733b712e9aa061b56e947329aea6'
-                    }
-                    '306bdbc649a21791dbac0a2b880fe1c7': {
-                        table: 'sys_pd_activity_type'
-                        id: '306bdbc649a21791dbac0a2b880fe1c7'
-                    }
-                    'f6711d12b63b9fe8f7e7972f07399200': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: 'f6711d12b63b9fe8f7e7972f07399200'
-                    }
-                    '01cce022f5beea00fae58f0e4d56bf44': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: '01cce022f5beea00fae58f0e4d56bf44'
-                    }
-                    '7f63a1f00f6dbb8176196e3b4cb9a81b': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: '7f63a1f00f6dbb8176196e3b4cb9a81b'
-                    }
-                    '31da71eeafc186dcf3d40bb4afbf2fbd': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: '31da71eeafc186dcf3d40bb4afbf2fbd'
-                    }
-                    'd63256ba24f1962506754c2a0688cf55': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: 'd63256ba24f1962506754c2a0688cf55'
-                    }
-                    '6ab4ad85a64fd799f1413dfd9150610b': {
-                        table: 'sys_pd_activity_type_prop'
-                        id: '6ab4ad85a64fd799f1413dfd9150610b'
-                    }
-                    '419a84672eda71a08fb3aec30e37ea6f': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '419a84672eda71a08fb3aec30e37ea6f'
-                    }
-                    '575033d6cbd0b16257cc8a112abc4686': {
-                        table: 'sys_ux_screen'
-                        id: '575033d6cbd0b16257cc8a112abc4686'
-                    }
-                    '2f5e15016a3208960ee0ef82c45e413d': {
-                        table: 'sys_ux_screen'
-                        id: '2f5e15016a3208960ee0ef82c45e413d'
-                    }
-                    'e45c382d496c9cb6cc7f7f7ba4693d7a': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: 'e45c382d496c9cb6cc7f7f7ba4693d7a'
-                    }
-                    'fb2629cb93ee0536a64e6b0747b880bf': {
-                        table: 'sys_ux_screen'
-                        id: 'fb2629cb93ee0536a64e6b0747b880bf'
-                    }
-                    'bc37d830eb8fccdea095e25eca8d16a4': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: 'bc37d830eb8fccdea095e25eca8d16a4'
-                    }
-                    '8a9b4289e6a0ba79c724e1781e5f36bc': {
-                        table: 'sys_ux_screen'
-                        id: '8a9b4289e6a0ba79c724e1781e5f36bc'
-                    }
-                    '717b5ec7ddf285c7b2c2814598bf52bc': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '717b5ec7ddf285c7b2c2814598bf52bc'
-                    }
-                    'a560dabf8c809cc695183c6742ba028a': {
-                        table: 'sys_ux_screen'
-                        id: 'a560dabf8c809cc695183c6742ba028a'
-                    }
-                    '996d7cd08c64094305d1c797d17eea44': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '996d7cd08c64094305d1c797d17eea44'
-                    }
-                    'a8e25b97856eccff4637bf21fb86e172': {
-                        table: 'sys_ux_screen'
-                        id: 'a8e25b97856eccff4637bf21fb86e172'
-                    }
-                    'a641f45e75e9ff45e8bc1a3d55d0ab9b': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: 'a641f45e75e9ff45e8bc1a3d55d0ab9b'
-                    }
-                    'ca2a2d9b7d006ce326d8ffd3679f8b1d': {
-                        table: 'sys_ux_screen'
-                        id: 'ca2a2d9b7d006ce326d8ffd3679f8b1d'
-                    }
-                    '939dbdbd80a0b544a1d3ca99e7285d33': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '939dbdbd80a0b544a1d3ca99e7285d33'
-                    }
-                    '90b770a7b13fcac63b0492883ed34da5': {
-                        table: 'sys_ux_screen'
-                        id: '90b770a7b13fcac63b0492883ed34da5'
-                    }
-                    'c90a6ba10d1984777fb326e1a760d0cb': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: 'c90a6ba10d1984777fb326e1a760d0cb'
-                    }
-                    '7b8b4ac928b18957e539152047d79fb2': {
-                        table: 'sys_ux_screen'
-                        id: '7b8b4ac928b18957e539152047d79fb2'
-                    }
-                    '8c5f8b96459e4f1d8cbd57fe4d194779': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '8c5f8b96459e4f1d8cbd57fe4d194779'
-                    }
-                    '4320e7a668e9786dc13665bdf2c04f04': {
-                        table: 'sys_ux_screen'
-                        id: '4320e7a668e9786dc13665bdf2c04f04'
-                    }
-                    '3ae2a4c102ef891d8c360591c058c6be': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '3ae2a4c102ef891d8c360591c058c6be'
-                    }
-                    '90f125bfcae75c0415e004535441d088': {
-                        table: 'sys_ux_screen'
-                        id: '90f125bfcae75c0415e004535441d088'
-                    }
-                    '8568fb5595c0c5b61042daca86a44d40': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '8568fb5595c0c5b61042daca86a44d40'
-                    }
-                    'bf359e9c847ef3341fedf2f5d2e1de3b': {
-                        table: 'sys_ux_screen'
-                        id: 'bf359e9c847ef3341fedf2f5d2e1de3b'
-                    }
-                    '9ec86655bdd6372b3a35abc85a887be3': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '9ec86655bdd6372b3a35abc85a887be3'
-                    }
-                    '85c3d1082f6cc5d3e76e110de14457f9': {
-                        table: 'sys_ux_screen'
-                        id: '85c3d1082f6cc5d3e76e110de14457f9'
-                    }
-                    '0f8c2ea4560107ab881dcb9e4f0693f1': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '0f8c2ea4560107ab881dcb9e4f0693f1'
-                    }
-                    'f5650855f6f50ea74e5b21002c2bd6f4': {
-                        table: 'sys_ux_screen'
-                        id: 'f5650855f6f50ea74e5b21002c2bd6f4'
-                    }
-                    '2f59123e24a732143c0fefe36ee1421a': {
-                        table: 'sys_playbook_experience_activity_ui'
-                        id: '2f59123e24a732143c0fefe36ee1421a'
-                    }
                     '001e2e4bde16559c84a1ac179b276480': {
                         table: 'sys_pd_activity_type_prop'
                         id: '001e2e4bde16559c84a1ac179b276480'
@@ -181,6 +17,10 @@ declare global {
                         table: 'sys_ux_screen'
                         id: '0171d176fb69cb58b70efc647befdc93'
                         deleted: true
+                    }
+                    '01cce022f5beea00fae58f0e4d56bf44': {
+                        table: 'sys_pd_activity_type_prop'
+                        id: '01cce022f5beea00fae58f0e4d56bf44'
                     }
                     '01ef026953690b107d5fd301a0490e41': {
                         table: 'sys_pd_snapshot_input'
@@ -278,6 +118,10 @@ declare global {
                     '0c682cf59359075044f7bd4f7bba103e': {
                         table: 'sys_pd_snapshot'
                         id: '0c682cf59359075044f7bd4f7bba103e'
+                    }
+                    '0c7127c08de1a97fd6262019562446ef': {
+                        table: 'sys_playbook_experience_action_assignment_map'
+                        id: '0c7127c08de1a97fd6262019562446ef'
                     }
                     '0d907cf053a543107d5fd301a0490ee4': {
                         table: 'sys_wizard_answer'
@@ -597,6 +441,14 @@ declare global {
                         table: 'sys_playbook_experience_activity_ui'
                         id: '3035a7b2fba18f58b70efc647befdc04'
                     }
+                    '306bdbc649a21791dbac0a2b880fe1c7': {
+                        table: 'sys_pd_activity_type'
+                        id: '306bdbc649a21791dbac0a2b880fe1c7'
+                    }
+                    '31da71eeafc186dcf3d40bb4afbf2fbd': {
+                        table: 'sys_pd_activity_type_prop'
+                        id: '31da71eeafc186dcf3d40bb4afbf2fbd'
+                    }
                     '31dc645f93658310ce18b5d97bba104b': {
                         table: 'sys_pd_snapshot_chunk'
                         id: '31dc645f93658310ce18b5d97bba104b'
@@ -764,6 +616,10 @@ declare global {
                     '4101c46d53a5c7107d5fd301a0490e53': {
                         table: 'sys_ux_screen'
                         id: '4101c46d53a5c7107d5fd301a0490e53'
+                    }
+                    '419a84672eda71a08fb3aec30e37ea6f': {
+                        table: 'sys_playbook_experience_activity_ui'
+                        id: '419a84672eda71a08fb3aec30e37ea6f'
                     }
                     '42715576fb69cb58b70efc647befdc6c': {
                         table: 'sys_ux_macroponent'
@@ -938,6 +794,10 @@ declare global {
                     '56aed84476347689d139156ec8266212': {
                         table: 'sys_pd_activity_type'
                         id: '56aed84476347689d139156ec8266212'
+                    }
+                    '575033d6cbd0b16257cc8a112abc4686': {
+                        table: 'sys_ux_screen'
+                        id: '575033d6cbd0b16257cc8a112abc4686'
                     }
                     '57760183fbedcf58b70efc647befdc5f': {
                         table: 'sys_ui_message'
@@ -1161,6 +1021,10 @@ declare global {
                     '6a4a8b3fbf9de9f2118435f09a9de099': {
                         table: 'sys_pd_activity_type_prop'
                         id: '6a4a8b3fbf9de9f2118435f09a9de099'
+                    }
+                    '6ab4ad85a64fd799f1413dfd9150610b': {
+                        table: 'sys_pd_activity_type_prop'
+                        id: '6ab4ad85a64fd799f1413dfd9150610b'
                     }
                     '6b97ac759359075044f7bd4f7bba1063': {
                         table: 'sys_pd_process_definition'
@@ -1394,6 +1258,10 @@ declare global {
                         table: 'sys_scope_privilege'
                         id: '7f1a82ed33518bd07ef8f499ed5c7bca'
                     }
+                    '7f63a1f00f6dbb8176196e3b4cb9a81b': {
+                        table: 'sys_pd_activity_type_prop'
+                        id: '7f63a1f00f6dbb8176196e3b4cb9a81b'
+                    }
                     '815f77490c621fcde26a861d5f0c1a3c': {
                         table: 'sys_pd_activity_type_prop'
                         id: '815f77490c621fcde26a861d5f0c1a3c'
@@ -1417,6 +1285,10 @@ declare global {
                     '8303fd8eef50276c04783deb1d6153e9': {
                         table: 'sys_pd_activity_type_prop'
                         id: '8303fd8eef50276c04783deb1d6153e9'
+                    }
+                    '833c6e9782f8bd740bd8cbc24453ac94': {
+                        table: 'sys_pd_activity_definition'
+                        id: '833c6e9782f8bd740bd8cbc24453ac94'
                     }
                     '836a101c2ae6e742c81d9c87f1d60dda': {
                         table: 'sys_playbook_experience_action_assignment_map'
@@ -2621,6 +2493,10 @@ declare global {
                         table: 'sys_pd_activity_type_prop'
                         id: 'b5b57f45b932b3025146ea676b007377'
                     }
+                    b5d0733b712e9aa061b56e947329aea6: {
+                        table: 'sys_playbook_experience_action_assignment_map'
+                        id: 'b5d0733b712e9aa061b56e947329aea6'
+                    }
                     b671d576fb69cb58b70efc647befdc04: {
                         table: 'sys_playbook_experience_activity_ui'
                         id: 'b671d576fb69cb58b70efc647befdc04'
@@ -3701,6 +3577,10 @@ declare global {
                         table: 'sys_ui_message'
                         id: 'd5fe3b1153a5c7107d5fd301a0490e93'
                     }
+                    d63256ba24f1962506754c2a0688cf55: {
+                        table: 'sys_pd_activity_type_prop'
+                        id: 'd63256ba24f1962506754c2a0688cf55'
+                    }
                     d679373efb298f58b70efc647befdc4f: {
                         table: 'sys_ux_macroponent'
                         id: 'd679373efb298f58b70efc647befdc4f'
@@ -3883,6 +3763,10 @@ declare global {
                         table: 'sys_ux_page_registry'
                         id: 'e728e92593dd835044f7bd4f7bba1020'
                     }
+                    e8bc4c1d4f583f3daf64a7427178379e: {
+                        table: 'sys_playbook_experience_action_assignment_map'
+                        id: 'e8bc4c1d4f583f3daf64a7427178379e'
+                    }
                     e9711576fb69cb58b70efc647befdc44: {
                         table: 'sys_playbook_experience_activity_ui'
                         id: 'e9711576fb69cb58b70efc647befdc44'
@@ -4045,6 +3929,10 @@ declare global {
                     f60746e933118bd07ef8f499ed5c7bdb: {
                         table: 'sys_uib_screen_test_values'
                         id: 'f60746e933118bd07ef8f499ed5c7bdb'
+                    }
+                    f6711d12b63b9fe8f7e7972f07399200: {
+                        table: 'sys_pd_activity_type_prop'
+                        id: 'f6711d12b63b9fe8f7e7972f07399200'
                     }
                     f6ca67ea832d0310f70ac6a6feaad3e5: {
                         table: 'sys_flow_compiled_flow_chunk'
@@ -24268,6 +24156,15 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_element_mapping'
+                        id: '8ad39bd30128c6a3f1debd7a344c53aa'
+                        key: {
+                            field: 'is_automated'
+                            table: 'var__m_sys_pd_activity_type_prop_306bdbc649a21791dbac0a2b880fe1c7'
+                            id: '833c6e9782f8bd740bd8cbc24453ac94'
+                        }
+                    },
+                    {
                         table: 'sys_security_acl_role'
                         id: '8b77bdb06d4f478d9f6f770eb19f26fe'
                         key: {
@@ -27654,6 +27551,15 @@ declare global {
                                     name: 'x_gegis_ins_policy.compliance_officer'
                                 }
                             }
+                        }
+                    },
+                    {
+                        table: 'sys_element_mapping'
+                        id: 'a5cdb9a35cb9d0a60b4dcb230d0edd63'
+                        key: {
+                            field: 'experience_status_record'
+                            table: 'var__m_sys_pd_activity_type_prop_306bdbc649a21791dbac0a2b880fe1c7'
+                            id: '833c6e9782f8bd740bd8cbc24453ac94'
                         }
                     },
                     {
