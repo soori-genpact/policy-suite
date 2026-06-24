@@ -101,10 +101,10 @@ Record({
         input_display_preferences: 'table=all;record=all;assignment_group=standard;assigned_to=standard;',
         label: 'Concentration Analysis',                       // ▶ CHANGE: human label
         name: 'x_gegis_ins_policy_concentration_analysis',     // ▶ CHANGE: scoped name
-        public_access: 'false',
+        public_access: 'true',
         source: 'db1084e553a5c7107d5fd301a0490e31',
         source_type: 'sys_hub_flow',
-        system_level: 'false',
+        system_level: 'true',
         table: 'global',
         wait_for_completion: 'true',
     },
