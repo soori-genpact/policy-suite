@@ -5,6 +5,78 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '90141cd762f9081eab170afb4d626e38': {
+                        table: 'sys_pd_process_definition'
+                        id: '90141cd762f9081eab170afb4d626e38'
+                    }
+                    'd317a50f961ecd8b5820f512ef7ce2b1': {
+                        table: 'sys_pd_lane'
+                        id: 'd317a50f961ecd8b5820f512ef7ce2b1'
+                    }
+                    'fb293a0c2d048f174ff82ea99987dfe2': {
+                        table: 'sys_pd_activity'
+                        id: 'fb293a0c2d048f174ff82ea99987dfe2'
+                    }
+                    '3943cff6d9d6930415dad7dae094cd9a': {
+                        table: 'sys_pd_activity'
+                        id: '3943cff6d9d6930415dad7dae094cd9a'
+                    }
+                    '846469a2159f002ae1ea35f4ae4b3457': {
+                        table: 'sys_pd_activity'
+                        id: '846469a2159f002ae1ea35f4ae4b3457'
+                    }
+                    '831116d260d74a830b16c4c5dab4b7fd': {
+                        table: 'sys_pd_activity'
+                        id: '831116d260d74a830b16c4c5dab4b7fd'
+                    }
+                    '2079d92a970eee730535da3f69f4effc': {
+                        table: 'sys_pd_activity'
+                        id: '2079d92a970eee730535da3f69f4effc'
+                    }
+                    'e35550902c9d775c3f3d10e0b17a2fe0': {
+                        table: 'sys_pd_activity'
+                        id: 'e35550902c9d775c3f3d10e0b17a2fe0'
+                    }
+                    'a0ed8383cf9f006ec86ae7e02c403c96': {
+                        table: 'sys_pd_activity'
+                        id: 'a0ed8383cf9f006ec86ae7e02c403c96'
+                    }
+                    'c07a1f1eb94cea76ac46c79e2fc7c0e2': {
+                        table: 'sys_pd_process_definition'
+                        id: 'c07a1f1eb94cea76ac46c79e2fc7c0e2'
+                    }
+                    '1184dda7965d60a0c39b5a52fa2ad1da': {
+                        table: 'sys_pd_lane'
+                        id: '1184dda7965d60a0c39b5a52fa2ad1da'
+                    }
+                    '881e7ef37283ab58f44f096c52c4aaad': {
+                        table: 'sys_pd_activity'
+                        id: '881e7ef37283ab58f44f096c52c4aaad'
+                    }
+                    '7a4c57cc55bc9de7775218ca285b6a72': {
+                        table: 'sys_pd_activity'
+                        id: '7a4c57cc55bc9de7775218ca285b6a72'
+                    }
+                    '47ff56d0a3cc9e3c1447d858ce1bad7a': {
+                        table: 'sys_pd_activity'
+                        id: '47ff56d0a3cc9e3c1447d858ce1bad7a'
+                    }
+                    'd63d33e444877e07823bca8e6fb2a5c9': {
+                        table: 'sys_pd_activity'
+                        id: 'd63d33e444877e07823bca8e6fb2a5c9'
+                    }
+                    'a78a075085cbb604d3fc6eb80369f630': {
+                        table: 'sys_pd_activity'
+                        id: 'a78a075085cbb604d3fc6eb80369f630'
+                    }
+                    '3c36cb4649837e479f32470096ffb0d6': {
+                        table: 'sys_pd_activity'
+                        id: '3c36cb4649837e479f32470096ffb0d6'
+                    }
+                    '1875ed33a86da1f2f467d24261c81b57': {
+                        table: 'sys_pd_activity'
+                        id: '1875ed33a86da1f2f467d24261c81b57'
+                    }
                     '001e2e4bde16559c84a1ac179b276480': {
                         table: 'sys_pd_activity_type_prop'
                         id: '001e2e4bde16559c84a1ac179b276480'
