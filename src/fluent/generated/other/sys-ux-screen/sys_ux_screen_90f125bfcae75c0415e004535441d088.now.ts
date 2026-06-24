@@ -9,7 +9,7 @@ Record({
         disable_auto_reflow: false,
         disable_interoperable: 'false',
         event_mappings: '[]',
-        macroponent: 'ebf0c46d53a5c7107d5fd301a0490e4a',
+        macroponent: '44a4f7288f3081770e029ce9cae71a2f',
         macroponent_config: `{
     "activityDefinitionId": {
         "type": "JSON_LITERAL",

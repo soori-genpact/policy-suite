@@ -5,6 +5,138 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    'fd2aad06c58b4c75b3c90be055ce10df': {
+                        table: 'sys_ux_macroponent'
+                        id: 'fd2aad06c58b4c75b3c90be055ce10df'
+                    }
+                    '9ee702a48ebd5f5b2dd51c00ba07162f': {
+                        table: 'sys_ux_macroponent'
+                        id: '9ee702a48ebd5f5b2dd51c00ba07162f'
+                    }
+                    'd477d3a53a8f8463e6b6870e89f1b501': {
+                        table: 'sys_ux_macroponent'
+                        id: 'd477d3a53a8f8463e6b6870e89f1b501'
+                    }
+                    '23615d099209ba10d719ae473abab4e9': {
+                        table: 'sys_ux_macroponent'
+                        id: '23615d099209ba10d719ae473abab4e9'
+                    }
+                    '813e0fc3056cd45f72594ba070138584': {
+                        table: 'sys_ux_macroponent'
+                        id: '813e0fc3056cd45f72594ba070138584'
+                    }
+                    '4f8a27d7a309e03c0622c8071d4bfa2a': {
+                        table: 'sys_ux_macroponent'
+                        id: '4f8a27d7a309e03c0622c8071d4bfa2a'
+                    }
+                    'b611d98f175487d6428891aa282fa54f': {
+                        table: 'sys_ux_macroponent'
+                        id: 'b611d98f175487d6428891aa282fa54f'
+                    }
+                    'f4d6ae89220c9e67c6e563d208b02570': {
+                        table: 'sys_ux_macroponent'
+                        id: 'f4d6ae89220c9e67c6e563d208b02570'
+                    }
+                    '44a4f7288f3081770e029ce9cae71a2f': {
+                        table: 'sys_ux_macroponent'
+                        id: '44a4f7288f3081770e029ce9cae71a2f'
+                    }
+                    '93018e73abfb93f9a1e6456b56e82a22': {
+                        table: 'sys_ux_macroponent'
+                        id: '93018e73abfb93f9a1e6456b56e82a22'
+                    }
+                    '8cc85fcc876d7d084abb82a945ac2527': {
+                        table: 'sys_ux_macroponent'
+                        id: '8cc85fcc876d7d084abb82a945ac2527'
+                    }
+                    '48186f42e12c0248c6106f3178ea792b': {
+                        table: 'sys_ux_macroponent'
+                        id: '48186f42e12c0248c6106f3178ea792b'
+                    }
+                    'bc347f3536b597283141b5581c9b1efc': {
+                        table: 'sys_ux_macroponent'
+                        id: 'bc347f3536b597283141b5581c9b1efc'
+                    }
+                    'af978b321e59f35ce77a23f4884cd654': {
+                        table: 'sys_ux_macroponent'
+                        id: 'af978b321e59f35ce77a23f4884cd654'
+                    }
+                    '42202e27921148f3c83882a9a758d7c0': {
+                        table: 'sys_ux_macroponent'
+                        id: '42202e27921148f3c83882a9a758d7c0'
+                    }
+                    '6621657222e46cca6640860af13759bf': {
+                        table: 'sys_ux_macroponent'
+                        id: '6621657222e46cca6640860af13759bf'
+                    }
+                    'cda8265855ef9fab06dfadec363ed84a': {
+                        table: 'sys_ux_macroponent'
+                        id: 'cda8265855ef9fab06dfadec363ed84a'
+                    }
+                    '5b7ee62fa46258148195017f6c972018': {
+                        table: 'sys_ux_macroponent'
+                        id: '5b7ee62fa46258148195017f6c972018'
+                    }
+                    'a670a81adb99955816e18901efa528c3': {
+                        table: 'sys_ux_macroponent'
+                        id: 'a670a81adb99955816e18901efa528c3'
+                    }
+                    'b60c08534c38d7473371ef5e66690989': {
+                        table: 'sys_ux_macroponent'
+                        id: 'b60c08534c38d7473371ef5e66690989'
+                    }
+                    '0fbf16c9879fb11664ed966d975cd7b5': {
+                        table: 'sys_ux_macroponent'
+                        id: '0fbf16c9879fb11664ed966d975cd7b5'
+                    }
+                    '9553849b365ca7db62066769ce684a24': {
+                        table: 'sys_ux_macroponent'
+                        id: '9553849b365ca7db62066769ce684a24'
+                    }
+                    'db5581d7c6d6914734a30ca3cd61b715': {
+                        table: 'sys_ux_macroponent'
+                        id: 'db5581d7c6d6914734a30ca3cd61b715'
+                    }
+                    '47dbbf3c87bbb503081e03421fd71e09': {
+                        table: 'sys_ux_macroponent'
+                        id: '47dbbf3c87bbb503081e03421fd71e09'
+                    }
+                    '035e1cf9129b819814004522cc88eac1': {
+                        table: 'sys_ux_macroponent'
+                        id: '035e1cf9129b819814004522cc88eac1'
+                    }
+                    'ab9cda0b3a68af5e5479e326be3e0495': {
+                        table: 'sys_ux_macroponent'
+                        id: 'ab9cda0b3a68af5e5479e326be3e0495'
+                    }
+                    'e9854e1c9221482393ef9c76332a461c': {
+                        table: 'sys_ux_macroponent'
+                        id: 'e9854e1c9221482393ef9c76332a461c'
+                    }
+                    'd20b96aeffe5d636f4e04dcdf90e58ae': {
+                        table: 'sys_ux_macroponent'
+                        id: 'd20b96aeffe5d636f4e04dcdf90e58ae'
+                    }
+                    'e8f77710b37a6c426de7bf19c6b1208b': {
+                        table: 'sys_ux_macroponent'
+                        id: 'e8f77710b37a6c426de7bf19c6b1208b'
+                    }
+                    'cbf3b7cc55bc069ce756a4278cbf591c': {
+                        table: 'sys_ux_macroponent'
+                        id: 'cbf3b7cc55bc069ce756a4278cbf591c'
+                    }
+                    'acbcc5b3fe87b9e7ce5ec4ee2695c5cf': {
+                        table: 'sys_ux_macroponent'
+                        id: 'acbcc5b3fe87b9e7ce5ec4ee2695c5cf'
+                    }
+                    'a770ab74ed4ce1d798a42bb339070006': {
+                        table: 'sys_ux_macroponent'
+                        id: 'a770ab74ed4ce1d798a42bb339070006'
+                    }
+                    'd35bbdeb1da0a9a58f9a903b1b08ae26': {
+                        table: 'sys_ux_macroponent'
+                        id: 'd35bbdeb1da0a9a58f9a903b1b08ae26'
+                    }
                     '001e2e4bde16559c84a1ac179b276480': {
                         table: 'sys_pd_activity_type_prop'
                         id: '001e2e4bde16559c84a1ac179b276480'
