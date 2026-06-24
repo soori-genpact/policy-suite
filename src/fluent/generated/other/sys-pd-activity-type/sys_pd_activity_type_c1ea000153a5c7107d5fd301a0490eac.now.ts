@@ -6,6 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
+        default_activity_ui: '02352bb2fba18f58b70efc647befdc37',
         icon: 'news_outline',
         name: 'Initiate Submission Request UI Layout',
     },
