@@ -6,7 +6,7 @@ Record({
     data: {
         color: '#F1F6DB',
         color_category: '7be0d143070e201083c548f78ad30050',
-        default_activity_ui: '0e352bb2fba18f58b70efc647befdc7b',
+        default_activity_ui: 'c1ea000253a5c7107d5fd301a0490eb0',
         icon: 'news_outline',
         name: 'Extract UI Layout',
     },
